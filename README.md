@@ -1,1 +1,1 @@
-# humannumbers
+A simple go module
